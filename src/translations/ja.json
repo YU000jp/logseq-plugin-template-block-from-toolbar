@@ -1,0 +1,14 @@
+{
+  "Plugin": "プラグイン",
+  "Select a block first, then click the template name to insert that template.": "はじめにブロックを選択し、次にテンプレート名をクリックしてそのテンプレートを挿入します。",
+  "The current block is not empty.": "現在のブロックが、空ではありません。",
+  "Inserted the template.": "テンプレートを挿入しました。",
+  "Failed to insert the template.": "テンプレートの挿入に失敗しました。",
+  "No block selected.": "ブロックが選択されていません。",
+  "Open this template-block": "このテンプレートブロックを開く",
+  "No templates found.": "テンプレートが見つかりません。",
+  "Refresh": "リフレッシュ",
+  "Undo": "入力を元に戻す",
+  "Redo": "入力をやり直す",
+  "No settings": "設定が存在しません"
+}

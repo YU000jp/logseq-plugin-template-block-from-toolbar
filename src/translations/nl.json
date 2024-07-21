@@ -1,0 +1,14 @@
+{
+  "Plugin": "Plugin (Plug-in)",
+  "Select a block first, then click the template name to insert that template.": "Selecteer eerst een blok en klik vervolgens op de sjabloonnaam om die sjabloon in te voegen.",
+  "The current block is not empty.": "Het huidige blok is niet leeg.",
+  "Inserted the template.": "Het sjabloon is ingevoegd.",
+  "Failed to insert the template.": "Het invoegen van de sjabloon is mislukt.",
+  "No block selected.": "Geen blok geselecteerd.",
+  "Open this template-block": "Open dit sjabloonblok",
+  "No templates found.": "Geen sjablonen gevonden.",
+  "Refresh": "Opfrissen",
+  "Undo": "Ongedaan maken",
+  "Redo": "Opnieuw",
+  "No settings": "Geen instellingen"
+}

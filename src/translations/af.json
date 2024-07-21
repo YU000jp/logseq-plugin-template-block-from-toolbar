@@ -1,0 +1,14 @@
+{
+  "Plugin": "Invoegtoepassing",
+  "Select a block first, then click the template name to insert that template.": "Kies eers 'n blok en klik dan op die sjabloonnaam om daardie sjabloon in te voeg.",
+  "The current block is not empty.": "Die huidige blok is nie leeg nie.",
+  "Inserted the template.": "Die sjabloon ingevoeg.",
+  "Failed to insert the template.": "Kon nie die sjabloon invoeg nie.",
+  "No block selected.": "Geen blok gekies nie.",
+  "Open this template-block": "Maak hierdie sjabloonblok oop",
+  "No templates found.": "Geen sjablone gevind nie.",
+  "Refresh": "Verfris",
+  "Undo": "Ontdoen",
+  "Redo": "Oordoen",
+  "No settings": "Geen instellings nie"
+}

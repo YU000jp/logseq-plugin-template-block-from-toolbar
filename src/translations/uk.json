@@ -1,0 +1,14 @@
+{
+  "Plugin": "Плагін",
+  "Select a block first, then click the template name to insert that template.": "Спочатку виберіть блок, а потім натисніть на назву шаблону, щоб вставити цей шаблон.",
+  "The current block is not empty.": "Поточний блок не порожній.",
+  "Inserted the template.": "Вставив шаблон.",
+  "Failed to insert the template.": "Не вдалося вставити шаблон.",
+  "No block selected.": "Блок не вибрано.",
+  "Open this template-block": "Відкрийте цей шаблон-блок",
+  "No templates found.": "Шаблонів не знайдено.",
+  "Refresh": "Оновити",
+  "Undo": "Скасувати",
+  "Redo": "Повторити",
+  "No settings": "Без налаштувань"
+}

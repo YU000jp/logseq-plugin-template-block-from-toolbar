@@ -1,0 +1,14 @@
+{
+  "Plugin": "플러그인",
+  "Select a block first, then click the template name to insert that template.": "먼저 블록을 선택한 다음 템플릿 이름을 클릭하여 해당 템플릿을 삽입합니다.",
+  "The current block is not empty.": "현재 블록은 비어 있지 않습니다.",
+  "Inserted the template.": "템플릿을 삽입했습니다.",
+  "Failed to insert the template.": "템플릿을 삽입하지 못했습니다.",
+  "No block selected.": "선택한 블록이 없습니다.",
+  "Open this template-block": "이 템플릿 블록 열기",
+  "No templates found.": "템플릿을 찾을 수 없습니다.",
+  "Refresh": "리프레쉬",
+  "Undo": "취소",
+  "Redo": "다시",
+  "No settings": "설정 없음"
+}

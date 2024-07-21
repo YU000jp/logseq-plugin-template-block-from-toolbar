@@ -1,0 +1,14 @@
+{
+  "Plugin": "Eklenti",
+  "Select a block first, then click the template name to insert that template.": "Önce bir blok seçin, ardından bu şablonu eklemek için şablon adına tıklayın.",
+  "The current block is not empty.": "Mevcut blok boş değil.",
+  "Inserted the template.": "Şablon eklendi.",
+  "Failed to insert the template.": "Şablon eklenemedi.",
+  "No block selected.": "Hiçbir blok seçilmedi.",
+  "Open this template-block": "Bu şablon bloğunu aç",
+  "No templates found.": "Şablon bulunamadı.",
+  "Refresh": "Yenilemek",
+  "Undo": "Geri almak",
+  "Redo": "Yinele",
+  "No settings": "Ayar yok"
+}

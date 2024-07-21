@@ -1,0 +1,14 @@
+{
+  "Plugin": "插件",
+  "Select a block first, then click the template name to insert that template.": "首先选择一个块，然后单击模板名称以插入该模板。",
+  "The current block is not empty.": "当前块不为空。",
+  "Inserted the template.": "已插入模板。",
+  "Failed to insert the template.": "无法插入模板。",
+  "No block selected.": "未选择任何块。",
+  "Open this template-block": "打开此模板块",
+  "No templates found.": "未找到模板。",
+  "Refresh": "刷新",
+  "Undo": "撤消",
+  "Redo": "重做",
+  "No settings": "无设置"
+}

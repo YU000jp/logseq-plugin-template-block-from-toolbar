@@ -1,0 +1,14 @@
+{
+  "Plugin": "Plugin",
+  "Select a block first, then click the template name to insert that template.": "Pilih blok terlebih dahulu, lalu klik nama templat untuk menyisipkan templat tersebut.",
+  "The current block is not empty.": "Blok saat ini tidak kosong.",
+  "Inserted the template.": "Menyisipkan templat.",
+  "Failed to insert the template.": "Gagal menyisipkan templat.",
+  "No block selected.": "Tidak ada blok yang dipilih.",
+  "Open this template-block": "Buka blok templat ini",
+  "No templates found.": "Tidak ada templat yang ditemukan.",
+  "Refresh": "Refresh",
+  "Undo": "Buka",
+  "Redo": "Mengulang",
+  "No settings": "Tidak ada pengaturan"
+}

@@ -1,0 +1,14 @@
+{
+  "Plugin": "Plugin (Englisch)",
+  "Select a block first, then click the template name to insert that template.": "Wählen Sie zuerst einen Block aus und klicken Sie dann auf den Vorlagennamen, um diese Vorlage einzufügen.",
+  "The current block is not empty.": "Der aktuelle Block ist nicht leer.",
+  "Inserted the template.": "Fügen Sie die Vorlage ein.",
+  "Failed to insert the template.": "Die Vorlage konnte nicht eingefügt werden.",
+  "No block selected.": "Kein Block ausgewählt.",
+  "Open this template-block": "Diesen Vorlagenblock öffnen",
+  "No templates found.": "Keine Vorlagen gefunden.",
+  "Refresh": "Auffrischen",
+  "Undo": "Aufmachen",
+  "Redo": "Noch einmal machen",
+  "No settings": "Keine Einstellungen"
+}

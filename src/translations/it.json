@@ -1,0 +1,14 @@
+{
+  "Plugin": "Plugin",
+  "Select a block first, then click the template name to insert that template.": "Seleziona prima un blocco, quindi fai clic sul nome del modello per inserirlo.",
+  "The current block is not empty.": "Il blocco corrente non è vuoto.",
+  "Inserted the template.": "Inserito il modello.",
+  "Failed to insert the template.": "Impossibile inserire il modello.",
+  "No block selected.": "Nessun blocco selezionato.",
+  "Open this template-block": "Apri questo blocco modello",
+  "No templates found.": "Nessun modello trovato.",
+  "Refresh": "Aggiornare",
+  "Undo": "Disfare",
+  "Redo": "Rifare",
+  "No settings": "Nessuna impostazione"
+}

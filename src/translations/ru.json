@@ -1,0 +1,14 @@
+{
+  "Plugin": "Плагин",
+  "Select a block first, then click the template name to insert that template.": "Сначала выберите блок, а затем нажмите на имя шаблона, чтобы вставить его.",
+  "The current block is not empty.": "Текущий блок не является пустым.",
+  "Inserted the template.": "Вставил шаблон.",
+  "Failed to insert the template.": "Не удалось вставить шаблон.",
+  "No block selected.": "Блок не выбран.",
+  "Open this template-block": "Открыть этот шаблон-блок",
+  "No templates found.": "Шаблоны не найдены.",
+  "Refresh": "Освежать",
+  "Undo": "Отменить",
+  "Redo": "Повторить",
+  "No settings": "Без настроек"
+}

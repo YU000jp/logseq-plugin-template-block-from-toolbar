@@ -1,0 +1,14 @@
+{
+  "Plugin": "Utvidelse",
+  "Select a block first, then click the template name to insert that template.": "Velg en blokk først, og klikk deretter på malnavnet for å sette inn malen.",
+  "The current block is not empty.": "Den nåværende blokken er ikke tom.",
+  "Inserted the template.": "Satte inn malen.",
+  "Failed to insert the template.": "Kan ikke sette inn malen.",
+  "No block selected.": "Ingen blokk valgt.",
+  "Open this template-block": "Åpne denne malblokken",
+  "No templates found.": "Ingen maler funnet.",
+  "Refresh": "Forfriske",
+  "Undo": "Angre",
+  "Redo": "Gjør om",
+  "No settings": "Ingen innstillinger"
+}

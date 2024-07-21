@@ -1,0 +1,14 @@
+{
+  "Plugin": "外掛程式",
+  "Select a block first, then click the template name to insert that template.": "首先選擇一個塊，然後按下範本名稱以插入該範本。",
+  "The current block is not empty.": "當前塊不為空。",
+  "Inserted the template.": "已插入範本。",
+  "Failed to insert the template.": "無法插入範本。",
+  "No block selected.": "未選擇任何塊。",
+  "Open this template-block": "打開此模板塊",
+  "No templates found.": "未找到範本。",
+  "Refresh": "刷新",
+  "Undo": "恢復",
+  "Redo": "重做",
+  "No settings": "無設置"
+}

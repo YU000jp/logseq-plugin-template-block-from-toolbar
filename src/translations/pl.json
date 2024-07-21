@@ -1,0 +1,14 @@
+{
+  "Plugin": "Wtyczka",
+  "Select a block first, then click the template name to insert that template.": "Najpierw zaznacz blok, a następnie kliknij nazwę szablonu, aby wstawić ten szablon.",
+  "The current block is not empty.": "Bieżący blok nie jest pusty.",
+  "Inserted the template.": "Wstawiono szablon.",
+  "Failed to insert the template.": "Nie można wstawić szablonu.",
+  "No block selected.": "Nie wybrano żadnego bloku.",
+  "Open this template-block": "Otwórz ten blok szablonów",
+  "No templates found.": "Nie znaleziono szablonów.",
+  "Refresh": "Odświeżyć",
+  "Undo": "Cofnąć",
+  "Redo": "Ponowić",
+  "No settings": "Brak ustawień"
+}

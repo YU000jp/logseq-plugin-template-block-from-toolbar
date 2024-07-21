@@ -1,0 +1,14 @@
+{
+  "Plugin": "Doplnok",
+  "Select a block first, then click the template name to insert that template.": "Najprv vyberte blok a potom kliknutím na názov šablóny vložte danú šablónu.",
+  "The current block is not empty.": "Aktuálny blok nie je prázdny.",
+  "Inserted the template.": "Vložená šablóna.",
+  "Failed to insert the template.": "Vloženie šablóny sa nepodarilo vložiť.",
+  "No block selected.": "Nie je vybratý žiadny blok.",
+  "Open this template-block": "Otvoriť tento blok šablóny",
+  "No templates found.": "Nenašli sa žiadne šablóny.",
+  "Refresh": "Občerstviť",
+  "Undo": "Odčiniť",
+  "Redo": "Znova",
+  "No settings": "Žiadne nastavenia"
+}

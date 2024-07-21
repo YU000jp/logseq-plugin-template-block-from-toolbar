@@ -1,0 +1,14 @@
+{
+  "Plugin": "Plugin",
+  "Select a block first, then click the template name to insert that template.": "Seleccione primero un bloque y, a continuación, haga clic en el nombre de la plantilla para insertarla.",
+  "The current block is not empty.": "El bloque actual no está vacío.",
+  "Inserted the template.": "Se ha insertado la plantilla.",
+  "Failed to insert the template.": "No se pudo insertar la plantilla.",
+  "No block selected.": "No se ha seleccionado ningún bloque.",
+  "Open this template-block": "Abra este bloque de plantilla",
+  "No templates found.": "No se han encontrado plantillas.",
+  "Refresh": "Actualizar",
+  "Undo": "Deshacer",
+  "Redo": "Rehacer",
+  "No settings": "Sin ajustes"
+}
