@@ -11,8 +11,11 @@
 ## 概要
 
 - Logseqのテンプレートを使いやすくします。
+  1. テンプレートブロックの一覧を表示
+  2. カーソル位置にテンプレートブロックを挿入
+  3. テンプレートブロックへのクイックアクセス
 
-  > ![InsertTemplate](https://github.com/user-attachments/assets/1466036b-41cc-4311-9744-02ba445fa329)
+ ![InsertTemplate](https://github.com/user-attachments/assets/1466036b-41cc-4311-9744-02ba445fa329)
 
 
 ---

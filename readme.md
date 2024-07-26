@@ -11,8 +11,11 @@
 ## Overview
 
 - Make Logseq templates easier to use.
+  1. Display a list of template blocks
+  2. **Insert template block at cursor position**
+  3. Quick access to template blocks
 
-  > ![InsertTemplate](https://github.com/user-attachments/assets/1466036b-41cc-4311-9744-02ba445fa329)
+![InsertTemplate](https://github.com/user-attachments/assets/1466036b-41cc-4311-9744-02ba445fa329)
 
 ---
 
