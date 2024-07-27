@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/compare/v1.0.0...v1.1.0) (2024-07-27)
+
+
+### Features
+
+* **Add:** translations ([23a3260](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/commit/23a3260683606b8fa892a5ee39b02eea6ddf9c39))
+
 # 1.0.0 (2024-07-26)
 
 
