@@ -2,6 +2,9 @@
 
 - ツールバーのテンプレート一覧から選択して、ブロックに挿入するためのプラグインです。入力を回避します。
 
+> [!WARNING]
+>このプラグインはLogseq dbバージョンでは動作しません。
+
 <div align="right">
  
 [English](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) / [日本語](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/blob/main/readme.ja.md) [![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-template-block-from-toolbar)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/releases) [![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-template-block-from-toolbar?color=blue)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/LICENSE) [![Downloads](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-template-block-from-toolbar/total.svg)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/releases)

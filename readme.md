@@ -2,6 +2,9 @@
 
 - This plugin is used to select from the list of templates in the toolbar and insert them into the block. Avoids typing.
 
+> [!WARNING]
+This plugin does not work with Logseq db version.
+
 <div align="right">
  
 [English](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) / [日本語](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/blob/main/readme.ja.md) [![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-template-block-from-toolbar)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/releases) [![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-template-block-from-toolbar?color=blue)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/LICENSE) [![Downloads](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-template-block-from-toolbar/total.svg)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar/releases)
