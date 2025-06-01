@@ -2,8 +2,8 @@
 
 - This plugin is used to select from the list of templates in the toolbar and insert them into the block. Avoids typing.
 
-> [!WARNING]
-This plugin does not work with Logseq db version.
+> [!NOTE]
+This plugin works in Logseq db version. (md graph only)
 
 <div align="right">
  
